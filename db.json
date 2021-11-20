@@ -1,0 +1,56 @@
+{
+  "contacts": [
+    {
+      "name": "John",
+      "phone": "0870345987432",
+      "id": 2
+    },
+    {
+      "name": "Ahmed",
+      "phone": "087654645645",
+      "id": 4
+    },
+    {
+      "name": "huda",
+      "phone": "0877642345",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 23,
+      "name": "Bird Ramsey",
+      "gender": "male",
+      "company": "NIMON",
+      "email": "birdramsey@nimon.com"
+    },
+    {
+      "id": 31,
+      "name": "Lillian Burgess",
+      "gender": "female",
+      "company": "LUXURIA",
+      "email": "lillianburgess@luxuria.com"
+    },
+    {
+      "id": 34,
+      "name": "Kristie Cole",
+      "gender": "female",
+      "company": "QUADEEBO",
+      "email": "kristiecole@quadeebo.com"
+    },
+    {
+      "id": 30,
+      "name": "Leonor Cross",
+      "gender": "female",
+      "company": "GRONK",
+      "email": "leonorcross@gronk.com"
+    },
+    {
+      "id": 28,
+      "name": "Marsh Mccall",
+      "gender": "male",
+      "company": "ULTRIMAX",
+      "email": "marshmccall@ultrimax.com"
+    }
+  ]
+}
